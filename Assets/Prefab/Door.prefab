@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7302866267426601078}
   - component: {fileID: 7850773175898336253}
   - component: {fileID: 1954214191883730665}
-  - component: {fileID: 5919552276883221204}
+  - component: {fileID: 1807156429180854044}
   m_Layer: 0
   m_Name: Door (3)
   m_TagString: Untagged
@@ -554,7 +554,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 756625967896976007}
   m_Mesh: {fileID: 0}
---- !u!64 &5919552276883221204
+--- !u!64 &1807156429180854044
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1574,7 +1574,7 @@ GameObject:
   - component: {fileID: 8418241739369722310}
   - component: {fileID: 8977661460639806721}
   - component: {fileID: 851165683371709331}
-  - component: {fileID: 3382249637052075197}
+  - component: {fileID: 5027989130490151931}
   m_Layer: 0
   m_Name: Cube (7)
   m_TagString: Untagged
@@ -2374,7 +2374,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8626480571931742167}
   m_Mesh: {fileID: 0}
---- !u!64 &3382249637052075197
+--- !u!64 &5027989130490151931
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
