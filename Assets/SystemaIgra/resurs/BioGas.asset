@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af54b3bc5476b3340be04699109f350b, type: 3}
+  m_Name: BioGas
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceType
+  resourceName: BioGas
+  icon: {fileID: 21300000, guid: 386e3883d86efd849b91a0a69340c434, type: 3}
+  carryPrefab: {fileID: 468135846169140727, guid: 9e8fcfb9835a70646879016a6b712d51, type: 3}
